@@ -1,0 +1,9 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/wowchemy/starter-academic.git
+[submodule "themes/tranq"]
+	path = themes/tranq
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
