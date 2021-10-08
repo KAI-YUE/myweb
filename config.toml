@@ -33,7 +33,7 @@ canonifyurls = true
 [author]
   name = "Kai Yue"
   # bio = ""
-  job = "North Carolina State University"
+  job = "NC State University"
   location = "Raleigh, NC"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "eric.kaiyue@gmail.com"

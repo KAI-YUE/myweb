@@ -12,6 +12,10 @@ date: 2021-09-27
 
     University of Science and Technology of China (USTC)
 
+- PhD student 2021-current
+
+    NC State University, Raleigh, NC 27695
+
 # Honor
 
 - 2020.07 Graduate Merit Award, NS State
