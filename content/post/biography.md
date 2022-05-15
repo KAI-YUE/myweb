@@ -1,6 +1,6 @@
 ---
 title: "Biography"
-date: 2021-10-07
+date: 2022-01-05
 categories:
 - Biography
 # tags:
@@ -20,13 +20,15 @@ thumbnailImagePosition: "top"
 # metaAlignment: center
 ---
 
-I am Kai Yue, a Ph.D. student majored in Electrical Engineering at North Carolina State University. Currently, I am supervised by Prof. [Chau-Wai Wong](https://people.engr.ncsu.edu/cwong9/index.html) and Prof. [Huaiyu Dai](https://www.ece.ncsu.edu/people/hdai/), focusing on the cross-disciplinary research of machine learning and communication. Before I join NC State, I graduated with a B.Eng. in Electronic and Information Engineering from the University of Science and Technology of China. 
+I am Kai Yue, a Ph.D. student majored in Electrical Engineering at North Carolina State University. Currently, I am supervised by Prof. [Chau-Wai Wong](https://people.engr.ncsu.edu/cwong9/index.html) and Prof. [Huaiyu Dai](https://www.ece.ncsu.edu/people/hdai/), focusing on the cross-disciplinary research of machine learning and communication. Before I joined NC State, I graduated with a B.E. in Electronic and Information Engineering from the University of Science and Technology of China. 
 
 <!--more-->
 
 My research interests include but not limited to :
 - Federated Learning 
-- Video Compression 
+- Machine Learning
+- Video Coding
+- Image Processing
 
 <!-- I served as 
 - Conference reviewer of [WIFS 2020](https://www.wifs2020.nyu.edu/). -->

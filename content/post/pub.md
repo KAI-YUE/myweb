@@ -1,6 +1,6 @@
 ---
 title: Research
-date: 2021-10-07
+date: 2022-01-05
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/eric-kaiyue/image/upload/v1600775874/website/book_hcsc9k.png
 categories:
@@ -13,10 +13,10 @@ tags:
 News
 {{< /alert >}}
 
-<!--more-->
-- 2021
 
-    Kai Yue, Richeng Jin, Chau-Wai Wong, and Huaiyu Dai. "Communication-Efficient Federated Learning via Predictive Coding." arXiv preprint arXiv:2108.00918 (2021). Paper Submitted to IEEE JSTSP Special Issue on Distributed Machine Learning for Wireless Communication 2021. Under Review.
+- 2022
+
+    Kai Yue, Richeng Jin, Chau-Wai Wong, and Huaiyu Dai. "Communication-Efficient Federated Learning via Predictive Coding." IEEE Journal of Selected Topics in Signal Processing (2022).
 
     <!-- <i class=\"sidebar-pullquote-icon fa fa-lg fa-home\"></i> -->
 
@@ -27,6 +27,15 @@ News
     code
     {{< /button>}} -->
 
+    Kai Yue, Richeng Jin, Ryan Pilgrim, Chau-Wai Wong, Dror Baron, Huaiyu Dai.  
+    "Neural Tangent Kernel Empowered Federated Learning." ICML 2022.
+    
+    {{< button icon="" href="https://arxiv.org/abs/2110.03681">}}
+    paper
+    {{< /button>}}
+
+- 2021
+
     Kai Yue, Richeng Jin, Chau-Wai Wong, and Huaiyu Dai. 
     "Federated Learning via Plurality Vote." Under Review.
 
@@ -34,10 +43,8 @@ News
     paper
     {{< /button>}}
     
-    Kai Yue, Richeng Jin, Ryan Pilgrim, Chau-Wai Wong, Dror Baron, Huaiyu Dai.  
-    "Neural Tangent Kernel Empowered Federated Learning." Under Review.
-    
-    {{< button icon="" href="https://arxiv.org/abs/2110.03681">}}
-    paper
-    {{< /button>}}
-    
+
+
+<!--more-->
+
+Please contact me if you want the code implementation for non-commercial use. 

@@ -7,7 +7,8 @@ categories:
 # - tranquilpeak
 # - features
 tags:
-- North Carolina State University
+- Python
+- Data Analysis
 ---
 
 Video demo under construction.  
@@ -16,7 +17,7 @@ Video demo under construction.
 **Youtube**
 
 <!-- {{< youtube EP_blwEf2K8 >}} -->
-{{< youtube 89BGjQYA0uE >}}
+<!-- {{< youtube 89BGjQYA0uE >}} -->
 <!-- **Vimeo**
 
 <!-- {{< vimeo 17877190 >}} --> -->
