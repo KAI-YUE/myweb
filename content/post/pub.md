@@ -1,6 +1,6 @@
 ---
 title: Research
-date: 2022-01-05
+date: 2022-10-04
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/eric-kaiyue/image/upload/v1600775874/website/book_hcsc9k.png
 categories:
@@ -11,10 +11,41 @@ tags:
 
 {{< alert info no-icon>}}
 News
+<!-- <br /> -->
+- Our recent work is accepted by USENIX Security Symposium 2023!
+- Our recent work is accepted by ICML 2022!
 {{< /alert >}}
 
+<br /> 
 
 - 2022
+
+    Kai Yue, Richeng Jin, Chau-Wai Wong, Dror Baron, and Huaiyu Dai. "Gradient Obfuscation Gives a False Sense of Security in Federated Learning." USENIX Security Symposium, 2023.
+
+    {{< button icon="" href="https://arxiv.org/abs/2206.04055">}}
+    paper
+    {{< /button>}}
+
+    [Kai Yue, Richeng Jin, Ryan Pilgrim, Chau-Wai Wong, Dror Baron, Huaiyu Dai. "Neural Tangent Kernel Empowered Federated Learning." ICML 2022.](https://ntk-fl.netlify.app/)
+    
+    {{< button icon="" href="https://arxiv.org/abs/2110.03681">}}
+    paper
+    {{< /button>}}
+    {{< button icon="" href="https://ncsu-cwwong.org/docs/2022_ICML_ntk-fl-poster.pdf">}}
+    poster
+    {{< /button>}}
+    {{< button icon="" href="https://ncsu-cwwong.org/docs/2022_ICML_ntk-fl-slides.pdf">}}
+    slides
+    {{< /button>}}
+    {{< button icon="" href="https://news.ncsu.edu/2022/07/data-heterogeneity-in-federated-learning/">}}
+    news
+    {{< /button>}}
+    {{< button icon="" href="https://slideslive.com/38983411/neural-tangent-kernel-empowered-federated-learning?ref=search-presentations-neural+tangent+kernel+empow">}}
+    presentation
+    {{< /button>}}
+    {{< button icon="" href="https://github.com/KAI-YUE/ntk-fed">}}
+    code
+    {{< /button>}}
 
     Kai Yue, Richeng Jin, Chau-Wai Wong, and Huaiyu Dai. "Communication-Efficient Federated Learning via Predictive Coding." IEEE Journal of Selected Topics in Signal Processing (2022).
 
@@ -23,21 +54,20 @@ News
     {{< button icon="" href="https://arxiv.org/abs/2108.00918">}}
     paper
     {{< /button>}}
-    <!-- {{< button icon="" href="https://arxiv.org/abs/2108.00918">}}
+    {{< button icon="" href="https://news.ncsu.edu/2022/02/federated-learning-in-wireless-devices/">}}
+    news
+    {{< /button>}}
+    {{< button icon="" href="https://www.hackster.io/news/video-style-compression-brings-federated-learning-to-smartphones-other-bandwidth-limited-devices-66c5f8de8008">}}
+    hackster.io
+    {{< /button>}}
+    {{< button icon="" href="https://github.com/KAI-YUE/Predictive-Coding-FL">}}
     code
-    {{< /button>}} -->
-
-    Kai Yue, Richeng Jin, Ryan Pilgrim, Chau-Wai Wong, Dror Baron, Huaiyu Dai.  
-    "Neural Tangent Kernel Empowered Federated Learning." ICML 2022.
-    
-    {{< button icon="" href="https://arxiv.org/abs/2110.03681">}}
-    paper
     {{< /button>}}
 
 - 2021
 
     Kai Yue, Richeng Jin, Chau-Wai Wong, and Huaiyu Dai. 
-    "Federated Learning via Plurality Vote." Under Review.
+    "Federated Learning via Plurality Vote." Under review of minor revision, IEEE Transactions on Neural Networks and Learning Systems.
 
     {{< button icon="" href="https://arxiv.org/abs/2110.02998">}}
     paper

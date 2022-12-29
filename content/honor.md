@@ -5,7 +5,7 @@ thumbnailImagePosition: left
 # coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
 metaAlignment: center
 coverMeta: out
-date: 2021-09-27
+date: 2022-07-23
 ---
 # Education 
 
@@ -20,7 +20,9 @@ date: 2021-09-27
 
 # Honor
 
-- 2020.07 Graduate Merit Award, NC State
+- 2022.07 ICML 2022 Participation Grant
+- 2022.06 Summer Graduate Fellowship, NC State
+- 2021.07 Graduate Merit Award, NC State
 - 2020.06 Honorable Title of Excellent Undergraduate Students, USTC
 - 2019.01 The Third Place, IYLFS 2019 Competition
 - 2019.06 UCLA CSST Scholarship
@@ -29,11 +31,15 @@ date: 2021-09-27
 
 # Experience
 
-- 2018.07-2019.06 Undergraduate Research Assistant 
+- 2021.05-2022.06 Research Assistant 
     
-    Microsoft MCC Lab, USTC
+    NC State University
 
 
 - 2019.07-2019.09 Summer Internship
     
     Center for Vision, Cognition, Learning, and Autonomy, UCLA
+
+- 2018.07-2019.06 Undergraduate Research Assistant 
+    
+    Microsoft MCC Lab, USTC
