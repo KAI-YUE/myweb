@@ -5,7 +5,7 @@ thumbnailImagePosition: left
 # coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
 metaAlignment: center
 coverMeta: out
-date: 2022-07-23
+date: 2023-08-15
 ---
 # Education 
 
@@ -20,7 +20,9 @@ date: 2022-07-23
 
 # Honor
 
-- 2022.07 ICML 2022 Participation Grant
+- 2023.08 USENIX Security 2023 Student Grant 
+- 2023.04 Graduate Award, NC State
+- 2022.07 ICML 2022 Student Grant
 - 2022.06 Summer Graduate Fellowship, NC State
 - 2021.07 Graduate Merit Award, NC State
 - 2020.06 Honorable Title of Excellent Undergraduate Students, USTC
