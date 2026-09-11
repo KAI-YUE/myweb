@@ -6,21 +6,29 @@ thumbnailImagePosition: left
 metaAlignment: center
 coverMeta: out
 date:    2026-09-10
-lastmod: 2026-09-10
+lastmod: 2026-09-11
 ---
 # Current Work
 
-## Technical Advisor — AI Systems & Engineering
+## Technical Lead — AI Architecture & Engineering Delivery
 
-Technical oversight for a platform that uses AI agents to help marketplace sellers manage their operations.
+Guide technical direction for a platform that uses AI agents to help small marketplace businesses manage their operations, working with external engineering teams.
 
 - Evaluate engineering vendors and review proposed system architecture against product requirements.
 - Review pull requests and external engineering teams’ implementations for reliability, security, maintainability, and alignment with the intended agent architecture.
-- Assess deliveries against acceptance criteria and identify issues to address before production deployment.
+- Make technical acceptance decisions on outsourced deliveries and identify issues to address before production deployment. The CEO retains final business approval.
+
+## Founder — Investment Education Community
+
+- Built a YouTube audience that peaked above 9,000 subscribers and remains above 7,500 as of September 2026.
+- Offered a private Telegram community at $30/month, sharing investment perspectives and teaching members to use code to explore investment questions.
+- Reduced activity as I reconsidered the value of the offering in light of increasingly accessible AI tutoring.
+
+[What this experience taught me about building](/writing/what-remains-valuable/)
 
 ## Independent Game Developer
 
-Developing an indie game as a solo developer, using agent-assisted workflows across the development process.
+Developing an indie game using agent-assisted workflows, currently focused on refining its core mechanics. The project explores storytelling as a way to express my philosophy.
 
 ## What’s Next
 

@@ -1,7 +1,7 @@
 ---
 title: Selected Research
 date: 2022-12-24
-lastmod: 2026-09-10
+lastmod: 2026-09-11
 url: "/2022/12/research/"
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/eric-kaiyue/image/upload/v1600775874/website/book_hcsc9k.png
@@ -40,6 +40,10 @@ Ethan Wilson, Kai Yue, Chau-Wai Wong, and Huaiyu Dai. ["Federated Learning Nodes
 
     {{< button icon="" href="https://ncsu-wong.org/docs/2023_USENIX_ROG-attack_slides.pdf">}}
     slides
+    {{< /button>}}
+
+    {{< button icon="" href="https://www.usenix.org/conference/usenixsecurity23/presentation/yue">}}
+    presentation
     {{< /button>}}
 
     {{< button icon="" href="https://github.com/KAI-YUE/rog">}}
