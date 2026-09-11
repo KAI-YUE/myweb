@@ -18,11 +18,9 @@ I built an investment education audience on YouTube, grew it beyond 9,000 subscr
 
 I started by learning investment principles and using Python to explore them. An [early tutorial on periodic investing](/tutor/strategy) captures that stage: a beginner trying to make an idea concrete through code.
 
-I went on to publish YouTube videos. Viewers joined my Telegram group, where I shared investment perspectives and taught them to use code to understand investment questions. I also offered a private group at $30/month. The YouTube channel still has more than 7,500 subscribers as of September 2026, after peaking above 9,000.
+I went on to publish YouTube videos. Viewers joined my Telegram group, where I shared investment perspectives and taught them to use programs to understand investment questions. I also offered a private group at $30/month. The YouTube channel still has more than 7,500 subscribers as of September 2026, after peaking above 9,000.
 
-Eventually, I slowed down. My own assessment was that AI could increasingly provide the explanations people had needed from me. I also felt that adding more information could become noise rather than help.
-
-That does not mean knowledge has stopped mattering. It means I need a better answer to why someone should choose my offering when explanations are readily available elsewhere. I no longer want to assume that producing more material creates more value.
+Running the community also gave me a firsthand view of how a business’s value can change. As ChatGPT and agents improved, I began reconsidering which parts of the service still deserved members’ time and money. Explanations were becoming easier to obtain; publishing more information wasn’t necessarily providing more help. I chose to reduce my activity while reassessing the offering. That experience left me with a question I now bring to every project: as technology changes what customers can do for themselves, what should the business become?
 
 ## The Same Question in Game Development
 
