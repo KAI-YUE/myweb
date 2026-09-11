@@ -15,10 +15,6 @@ Selected publications on distributed machine learning, efficiency, and privacy. 
 
 <!--more-->
 
-## Under Review
-
-Ethan Wilson, Kai Yue, Chau-Wai Wong, and Huaiyu Dai. ["Federated Learning Nodes Can Reconstruct Peers’ Image Data."](https://arxiv.org/abs/2410.04661) Preprint, 2024; currently under review.
-
 ## Published Work
 
 - 2025

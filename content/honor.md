@@ -91,6 +91,4 @@ July–September 2019 · Credit-bearing research alongside the VCLA research int
 
 My background includes machine learning research at NC State University, with work on distributed learning, communication efficiency, and privacy. Publications include ICML 2022, USENIX Security 2023, and [ICML 2025](https://proceedings.mlr.press/v267/thompson25a.html).
 
-[Federated Learning Nodes Can Reconstruct Peers’ Image Data](https://arxiv.org/abs/2410.04661) is currently under review.
-
 [Publication list on Google Scholar](https://scholar.google.com/citations?user=5uWEGF8AAAAJ&hl=en)
