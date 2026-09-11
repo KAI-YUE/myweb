@@ -1,6 +1,8 @@
 ---
-title: Research
+title: Selected Research
 date: 2022-12-24
+lastmod: 2026-09-10
+url: "/2022/12/research/"
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/eric-kaiyue/image/upload/v1600775874/website/book_hcsc9k.png
 categories:
@@ -9,12 +11,21 @@ tags:
 - Publications
 ---
 
-{{< alert info no-icon>}}
-News
-<!-- <br /> -->
-- Our recent work is accepted by USENIX Security Symposium 2023!
-- Our recent work is accepted by ICML 2022!
-{{< /alert >}}
+Selected publications on distributed machine learning, efficiency, and privacy. [Full publication list on Google Scholar](https://scholar.google.com/citations?user=5uWEGF8AAAAJ&hl=en).
+
+<!--more-->
+
+## Under Review
+
+Ethan Wilson, Kai Yue, Chau-Wai Wong, and Huaiyu Dai. ["Federated Learning Nodes Can Reconstruct Peers’ Image Data."](https://arxiv.org/abs/2410.04661) Preprint, 2024; currently under review.
+
+## Published Work
+
+- 2025
+
+    Gabriel Thompson, Kai Yue, Chau-Wai Wong, and Huaiyu Dai. ["NTK-DFL: Enhancing Decentralized Federated Learning in Heterogeneous Settings via Neural Tangent Kernel."](https://proceedings.mlr.press/v267/thompson25a.html) ICML 2025.
+
+    [Code](https://github.com/Gabe-Thomp/ntk-dfl)
 
 <br /> 
 
@@ -91,6 +102,4 @@ News
     
 
 
-<!--more-->
-
-Please contact me if you want the code implementation for non-commercial use. 
+[Contact](/email) for questions about this work. See each linked repository for code availability and license terms.

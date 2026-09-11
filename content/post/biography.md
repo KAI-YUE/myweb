@@ -1,6 +1,8 @@
 ---
-title: "Biography"
-date: 2022-12-24
+title: "Independent Developer & Technical Advisor"
+date: 2026-09-10
+lastmod: 2026-09-10
+url: "/2022/12/biography/"
 categories:
 - Biography
 # tags:
@@ -20,16 +22,15 @@ thumbnailImagePosition: "top"
 # metaAlignment: center
 ---
 
-I am Kai Yue, a Ph.D. student majored in Electrical Engineering at North Carolina State University. Currently, I am supervised by Prof. [Chau-Wai Wong](https://ncsu-wong.org/) and Prof. [Huaiyu Dai](https://www.ece.ncsu.edu/people/hdai/), focusing on the cross-disciplinary research of machine learning and communication. Before I joined NC State, I graduated with a B.E. in Electronic and Information Engineering from the University of Science and Technology of China. 
+Building an indie game and advising on the architecture and engineering of an AI-agent platform for marketplace sellers.
 
 <!--more-->
 
-My research interests include but not limited to :
-- Federated Learning 
-- Machine Learning
-- Statistical Learning
-- Image Processing
-- Video Coding
+As a technical advisor, I evaluate engineering vendors, review architecture and code, and assess whether deliveries meet product requirements before production deployment. The platform helps merchants manage marketplace operations using AI agents.
+
+Alongside that work, I am developing an indie game as a solo developer using agent-assisted workflows.
+
+I’m interested in joining an ambitious early-stage team where I can build software, take responsibility for delivery, and help shape the product.
 
 <!-- I served as 
 - Conference reviewer of [WIFS 2020](https://www.wifs2020.nyu.edu/). -->

@@ -1,6 +1,8 @@
 ---
-title: Demonstration Gallery
+title: Research Presentations
 date: 2020-09-01
+lastmod: 2026-09-10
+url: "/2020/09/demonstration-gallery/"
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/eric-kaiyue/image/upload/v1600775885/website/video_mpmtor.png
 categories:
@@ -11,12 +13,12 @@ tags:
 - Data Analysis
 ---
 
-Presentations
+An archive of research presentations.
 <!-- https://recorder-v3.slideslive.com/#/share?share=69257&s=543f2f94-080a-4917-ae8e-4efc9d8a1aef -->
 
 <!--more-->
 
-**Spotlight**
+**ICML 2022**
 - Neural Tangent Kernel Empowered Federated Learning
 {{< button icon="" href="https://slideslive.com/38983411/neural-tangent-kernel-empowered-federated-learning?ref=search-presentations-neural+tangent+kernel+empow">}}
 ICML 2022
@@ -28,4 +30,3 @@ ICML 2022
 <!-- **Vimeo**
 
 <!-- {{< vimeo 17877190 >}} --> -->
-

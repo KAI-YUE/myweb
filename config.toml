@@ -13,14 +13,23 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://kaiyue.netlify.app"
-languageCode = "en-us"
+locale = "en-us"
 defaultContentLanguage = "en-us"
-title = ""
+title = "Kai Yue"
 theme = "tranquilpeak"
-disqusShortname = "Kai's Homepage"
 # googleAnalytics = "UA-123-45"
-paginate = 7
 canonifyurls = true
+
+[pagination]
+  pagerSize = 7
+
+[services.disqus]
+  shortname = "Kai's Homepage"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [permalinks]
   post = "/:year/:month/:slug/"
@@ -30,10 +39,10 @@ canonifyurls = true
   category = "categories"
   archive = "archives"
 
-[author]
+[params.author]
   name = "Kai Yue"
   # bio = ""
-  job = "NC State University"
+  job = "Independent Developer & Technical Advisor"
   location = "Raleigh, NC"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "eric.kaiyue@gmail.com"
@@ -109,7 +118,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  description = "Kai Yue — independent developer and technical advisor. Building an indie game and advising on AI systems and engineering for a marketplace operations platform."
 
   # Customization
   # Define the behavior of the sidebar

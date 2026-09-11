@@ -6,7 +6,10 @@ thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city-750.jp
 metaAlignment: center
 coverMeta: out
 date: 2021-10-29
+lastmod: 2026-09-10
 ---
+*Archive note: This tutorial was written in October 2021. Its dataset, examples, external data-download instructions, and reported results reflect that period.*
+
 # Introduction
 
 In this tutorial, we will learn how to analyze a naive fixed investment strategy for Bitcoin. If you don't know what is Bitcoin, I suggest you learn some fundamentals about cryptology, computer networking, and distributed systems. You may find this [introduction](https://www.youtube.com/watch?v=bBC-nXj3Ng4) helpful. 
