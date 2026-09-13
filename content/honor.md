@@ -6,13 +6,15 @@ thumbnailImagePosition: left
 metaAlignment: center
 coverMeta: out
 date:    2026-09-10
-lastmod: 2026-09-11
+lastmod: 2026-09-12
 ---
 # Current Work
 
 ## Technical Lead — AI Architecture & Engineering Delivery
 
-Guide technical direction for a platform that uses AI agents to help small marketplace businesses manage their operations, working with external engineering teams.
+*Jobdream · Consulting engagement*
+
+Guide technical direction for Jobdream’s platform, which uses AI agents to help small marketplace businesses manage their operations, working with external engineering teams.
 
 - Evaluate engineering vendors and review proposed system architecture against product requirements.
 - Review pull requests and external engineering teams’ implementations for reliability, security, maintainability, and alignment with the intended agent architecture.

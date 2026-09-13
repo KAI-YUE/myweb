@@ -1,7 +1,7 @@
 ---
 title: "Building Products, Understanding Customers"
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-09-12
 weight: 1
 url: "/2022/12/biography/"
 categories:
@@ -23,7 +23,7 @@ thumbnailImagePosition: "top"
 # metaAlignment: center
 ---
 
-I’ve built a paid investment education community and now lead technical review and acceptance for an AI-agent platform serving marketplace sellers. My work starts with understanding what people need and taking responsibility for what gets delivered.
+I’ve built a paid investment education community and now lead technical review and acceptance for Jobdream, whose AI-agent platform serves marketplace sellers. My work starts with understanding what people need and taking responsibility for what gets delivered.
 
 <!--more-->
 

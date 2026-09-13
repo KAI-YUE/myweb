@@ -1,7 +1,7 @@
 ---
 title: "What Remains Valuable When Answers Become Cheap?"
 date: 2026-09-11
-lastmod: 2026-09-11
+lastmod: 2026-09-12
 weight: 2
 homewriting: true
 url: "/writing/what-remains-valuable/"
@@ -32,7 +32,7 @@ It pushes me to ask: why would someone choose this experience, spend time with i
 
 ## Taking Responsibility for Delivery
 
-When software engineering agents began emerging, I encouraged a longtime friend to explore them for his business. He has since built an agent platform intended to help small marketplace businesses manage their operations.
+When software engineering agents began emerging, I encouraged a longtime friend to explore them for his business. His company, Jobdream, has since built an agent platform intended to help small marketplace businesses manage their operations.
 
 My role is to guide technical direction and evaluate the work of external engineering teams. I review proposals, architecture, and code, and make technical acceptance decisions. He remains the CEO and gives final business approval.
 
