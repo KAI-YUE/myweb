@@ -6,8 +6,10 @@ thumbnailImagePosition: left
 metaAlignment: center
 coverMeta: out
 date:    2026-09-10
-lastmod: 2026-09-18
+lastmod: 2026-09-23
 ---
+[Google Scholar](https://scholar.google.com/citations?user=5uWEGF8AAAAJ&hl=en)
+
 # Current Work
 
 ## Technical Lead — Agent Architecture & Engineering Delivery
@@ -68,7 +70,7 @@ Open to co-founder conversations around the game platform or joining an early-st
 
 Research in machine learning, distributed training, communication efficiency, and privacy.
 
-[Ph.D. dissertation: Toward Robust and Secure Federated Learning](https://repository.lib.ncsu.edu/bitstreams/877d3886-fce7-43fa-a2e3-3e08ccdcaa1d/download).
+Ph.D. dissertation: *Toward Robust and Secure Federated Learning*.
 
 <!-- Defense: June/July 2025; commencement ceremony: December 2025. Ceremony timing is not a degree-conferral date. -->
 
@@ -105,5 +107,3 @@ My background includes machine learning research at NC State University, with wo
 - **USENIX Security 2023:** [Gradient Obfuscation Gives a False Sense of Security in Federated Learning](https://www.usenix.org/conference/usenixsecurity23/presentation/yue).
 - **ICML 2022:** [Neural Tangent Kernel Empowered Federated Learning](https://arxiv.org/abs/2110.03681).
 - **IEEE JSTSP 2022:** [Communication-Efficient Federated Learning via Predictive Coding](https://predfl.netlify.app/).
-
-[Publication list on Google Scholar](https://scholar.google.com/citations?user=5uWEGF8AAAAJ&hl=en)
