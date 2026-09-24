@@ -1,0 +1,9 @@
+<div class="post-header main-content-wrap {{ if $.Params.metaalignment }}text-{{ $.Params.metaalignment }}{{ else }}text-left{{ end }}">
+  <h1 class="post-title">
+    {{ $.Title }}<span style="display: inline-flex; align-items: baseline; gap: 0.45em; margin-left: 0.55em; font-size: 0.48em; font-weight: 400; letter-spacing: 0; vertical-align: middle; white-space: nowrap;" aria-label="Profile links">{{- range $index, $link := $.Params.profileLinks -}}
+      {{- if $index -}}<span style="color: #b3b3b3;" aria-hidden="true">·</span>{{- end -}}
+      <a href="{{ $link.url }}" style="border-bottom: 1px solid currentColor;" target="_blank" rel="noopener">{{ $link.label }}</a>
+    {{- end -}}</span>
+  </h1>
+  {{ partial "post/meta.html" . }}
+</div>

@@ -7,9 +7,13 @@ metaAlignment: center
 coverMeta: out
 date:    2026-09-10
 lastmod: 2026-09-23
+layout: "about"
+profileLinks:
+  - label: "LinkedIn"
+    url: "https://www.linkedin.com/in/kai-yue-257545224"
+  - label: "Scholar"
+    url: "https://scholar.google.com/citations?user=5uWEGF8AAAAJ&hl=en"
 ---
-[Google Scholar](https://scholar.google.com/citations?user=5uWEGF8AAAAJ&hl=en)
-
 # Current Work
 
 ## Technical Lead — Agent Architecture & Engineering Delivery
